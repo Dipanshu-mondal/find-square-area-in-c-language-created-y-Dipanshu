@@ -1,2 +1,1 @@
-# find-square-area-in-c language created y Dipanshu 
-Basically i'm program a code that can give square area accourding to your given input sides value
+<img width="1356" height="719" alt="Capture" src="https://github.com/user-attachments/assets/10febf3d-8a9f-4a2b-9c2f-818ad20e393a" />
